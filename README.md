@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/tarcysiobraz/Arquitetura-Flask-Blueprints.git
-
+```
 ## Ambiente
 
 Python 3.6+
